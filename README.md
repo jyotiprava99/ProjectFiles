@@ -36,14 +36,13 @@
   <tbody align="center">
     <tr>
          <td>1</td>
-      <td><a href = "https://github.com/rachitdani/Diamond-Price-Prediction-Project.git">Diamond Price Prediction</a></td>
+      <td><a href = "https://github.com/jyotiprava99/DiamondPricePrediction">Diamond Price Prediction</a></td>
       <td>python, flask, scikit-learn, logging, custom exception, code pipelines, HTML</td>
       <td>This website helps us predict the price of the diamond by using ML Regression models on the input paramaters</td>
     </tr>
     <tr>
       <td>2</td>
-      <td><a href = "https://github.com/rachitdani/Credit-Card-Fault-Detection- 
-        Project.git">Credit Card Fault Detection</a></td>
+      <td><a href = "https://github.com/jyotiprava99/CreditCardFaultDetection--Project">Credit Card Fault Detection</a></td>
       <td>python, flask, scikit-learn, logging, custom exception, code pipelines, HTML</td>
       <td>This website helps us predict if the credit card holder will default or not by using ML Classification models on the input paramaters</td>
     </tr>
@@ -56,7 +55,7 @@
    <td>4</td>
       <td><a href = "https://github.com/jyotiprava99/Portuguese-Bank-Report-Analysis">Portuguese-bank-Report Analysis</a></td>
       <td>python, scikit-learn</td>
-      <td>This website helps us predict the price of the diamond by using ML Regression models on the input paramaters</td>
+      <td>The purpose of the analysis is to how the bank runs a marketing campaign to bring customers on board with the term deposits.</td>
     </tr>
  
   </tbody>
